@@ -1,1 +1,7 @@
-/* Styles */
+h1 {
+  font-size: 42px;
+}
+
+.todo_item {
+  font-size: 30px;
+}
